@@ -3,12 +3,12 @@
 ![Sales Forecasting](https://img.shields.io/badge/Data%20Visualization-Power%20BI-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%20%7C%20XGBoost-orange)
 ![Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-ARIMA%20%7C%20LSTM-red)
-![Internship Project](https://img.shields.io/badge/Internship-Infosys%20Springboard-brightgreen)
+
 
 ---
 
 ## 📖 Project Overview
-This repository contains an advanced **Sales Data Visualization and Forecasting** project developed under the **Infosys Springboard Internship Program**. The project focuses on **interactive dashboards with Power BI** and **predictive analytics using Machine Learning models** to forecast sales and demand trends.
+This repository contains an advanced **Sales Data Visualization and Forecasting** project . The project focuses on **interactive dashboards with Power BI** and **predictive analytics using Machine Learning models** to forecast sales and demand trends.
 
 ### 🚀 Key Objectives:
 - Create interactive **Power BI dashboards** for sales insights.
@@ -36,7 +36,7 @@ This repository contains an advanced **Sales Data Visualization and Forecasting*
 │── 📂 data                   # Raw & processed datasets
 │── 📂 notebooks              # Jupyter Notebooks for EDA & ML models
 │── 📂 powerbi_dashboard      # Power BI reports & dashboards
-│── 📂 src                    # Scripts for preprocessing & ML models
+│── 📂 notebooks              # Scripts for preprocessing & ML models
 │── 📂 streamlit_app          # Streamlit-based interactive web app
 │── 📄 README.md              # Project documentation
 │── 📄 requirements.txt       # Dependencies for ML models
@@ -70,8 +70,8 @@ This repository contains an advanced **Sales Data Visualization and Forecasting*
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Sales-Data-Visualization-Forecasting.git
-cd Sales-Data-Visualization-Forecasting
+https://github.com/Greeshma-Medathati/VizPredict.git
+cd VizPredict
 ```
 
 #### 2. Install Required Libraries
@@ -122,19 +122,4 @@ forecast = model_fit.forecast(steps=30)
 
 ---
 
-## 📌 Contributing Guidelines
-We welcome contributions! Follow these steps:
-1. **Fork the repository** and create a new branch.
-2. Work on bug fixes, enhancements, or new features.
-3. Submit a **pull request (PR)** with a clear description.
-4. Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) for Python scripts.
-
----
-
-## 📞 Contact & Support
-- **Email:** --
-- **LinkedIn:** [--](https://linkedin.com/in/yourprofile)
-- **GitHub:** [--](https://github.com/yourusername)
-
-If you find this project useful, **give it a star!** ⭐
 
