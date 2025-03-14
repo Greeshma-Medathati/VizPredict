@@ -100,7 +100,7 @@ streamlit run app.py
 ## 📊 Example Results & Visuals
 
 ### 📈 Sales Dashboard in Power BI
-![Power BI Dashboard](https://your-image-url.com/sales_dashboard.png)
+![Image](https://github.com/user-attachments/assets/23f77dfa-52e2-4ee9-ac8e-57d5ce0c7be5)
 
 ### 📉 Forecasting Sales Trends
 ```python
