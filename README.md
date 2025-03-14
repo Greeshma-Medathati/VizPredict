@@ -103,14 +103,7 @@ streamlit run app.py
 ![Image](https://github.com/user-attachments/assets/23f77dfa-52e2-4ee9-ac8e-57d5ce0c7be5)
 
 ### 📉 Forecasting Sales Trends
-```python
-from statsmodels.tsa.arima.model import ARIMA
-
-# Fit ARIMA model
-model = ARIMA(sales_data, order=(5,1,0))
-model_fit = model.fit()
-forecast = model_fit.forecast(steps=30)
-```
+![Image](https://github.com/user-attachments/assets/ca67e634-4357-4676-af66-8a18d5ac4a5d)
 
 ### 🏆 Performance Metrics
 | Model     | RMSE  | MAE   | R² Score |
