@@ -64,6 +64,11 @@ This repository contains an advanced **Sales Data Visualization and Forecasting*
 
 ---
 
+##  Live Demo
+
+- The application is deployed and accessible at: [VizPredict](https://vizpredict.streamlit.app/)
+---
+
 ## 📌 Installation & Usage
 
 ### ⚙️ Setup & Installation
